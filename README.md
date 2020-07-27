@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ashok Reddy
+
+I'm a Fullstack Javascipt Developer @Bangalore, India.
+
+I have been developing web/mobile applications since 2009.
 
 <!--
 **reddyashok9/reddyashok9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
