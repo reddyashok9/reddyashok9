@@ -2,7 +2,7 @@
 
 I'm a Fullstack Javascipt Developer @Bangalore, India.
 
-I have 15 years of experience in developing javascript and typescript applications for scaling and integrating with discrete systems.
+I have 17 years of experience in developing javascript and typescript applications for scaling and integrating with discrete systems.
 
 I have completed my diploma in animation, Does have great creative thinking toward UI/UX
 
